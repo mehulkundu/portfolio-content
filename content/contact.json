@@ -4,61 +4,68 @@
         "type": "Email",
         "title": "contact.mehul@gmail.com",
         "url": "mailto:contact.mehul@gmail.com",
-        "description": "Get in touch with me"
+        "description": "Mention a CLEAR subject"
     },
     {
         "id": 2,
         "type": "Twitter",
-        "title": "KunduMehul",
+        "title": "@KunduMehul",
         "url": "https://twitter.com/KunduMehul",
-        "description": "Get in touch with me"
+        "description": "Shit post to brainstorming"
     },
     {
         "id": 3,
         "type": "LinkedIn",
-        "title": "mehulkundu",
+        "title": "@mehulkundu",
         "url": "https://www.linkedin.com/in/mehulkundu/",
-        "description": "Get in touch with me"
+        "description": "Not here much"
     },
     {
         "id": 4,
         "type": "YouTube",
-        "title": "mehulkundu",
+        "title": "@mehulkundu",
         "url": "https://www.youtube.com/@mehulkundu",
-        "description": "Get in touch with me"
+        "description": "A dump of lot of productive videos"
     },
     {
         "id": 5,
         "type": "Instagram",
-        "title": "mehulkundu",
+        "title": "@thatproductdude",
         "url": "https://www.instagram.com/thatproductdude/",
-        "description": "Get in touch with me"
+        "description": "The professional insta"
+    },
+    {
+        "id": 5,
+        "type": "Instagram",
+        "title": "@kundumehul",
+        "url": "https://www.instagram.com/kundumehul",
+        "description": "Life happens here"
     },
     {
         "id": 6,
         "type": "GitHub",
-        "title": "mehulkundu",
+        "title": "@mehulkundu",
         "url": "https://github.com/mehulkundu",
         "description": "Get in touch with me"
     },
     {
         "id": 7,
         "type": "Figma",
-        "title": "mehulkundu.com",
+        "title": "@mehulkundu",
         "url": "https://www.figma.com/@mehulkundu",
         "description": "Get in touch with me"
     },
     {
         "id": 8,
         "type": "Dribbble",
-        "title": "mehulkundu.com",
+        "title": "@mehulkundu",
         "url": "https://dribbble.com/mehulkundu",
         "description": "Get in touch with me"
     },
     {
         "id": 9,
         "type": "Behance",
-        "title": "mehulkundu.com",
+        "title": "@mehulkundu",
         "url": "https://www.behance.net/mehulkundu",
         "description": "Get in touch with me"
     }
