@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "type": "Email",
+        "title": "contact.mehul@gmail.com",
+        "url": "mailto:contact.mehul@gmail.com",
+        "description": "Get in touch with me"
+    },
+    {
+        "id": 2,
+        "type": "Twitter",
+        "title": "KunduMehul",
+        "url": "https://twitter.com/KunduMehul",
+        "description": "Get in touch with me"
+    },
+    {
+        "id": 3,
+        "type": "LinkedIn",
+        "title": "mehulkundu",
+        "url": "https://www.linkedin.com/in/mehulkundu/"
+    },
+    {
+        "id": 4,
+        "type": "YouTube",
+        "title": "mehulkundu",
+        "url": "https://www.youtube.com/@mehulkundu"
+    },
+    {
+        "id": 5,
+        "type": "Instagram",
+        "title": "mehulkundu",
+        "url": "https://www.instagram.com/thatproductdude/"
+    },
+    {
+        "id": 6,
+        "type": "GitHub",
+        "title": "mehulkundu",
+        "url": "https://github.com/mehulkundu"
+    },
+    {
+        "id": 7,
+        "type": "Figma",
+        "title": "mehulkundu.com",
+        "url": "https://www.figma.com/@mehulkundu"
+    },
+    {
+        "id": 8,
+        "type": "Dribbble",
+        "title": "mehulkundu.com",
+        "url": "https://dribbble.com/mehulkundu"
+    },
+    {
+        "id": 9,
+        "type": "Behance",
+        "title": "mehulkundu.com",
+        "url": "https://www.behance.net/mehulkundu"
+    }
+]
