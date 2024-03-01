@@ -17,42 +17,49 @@
         "id": 3,
         "type": "LinkedIn",
         "title": "mehulkundu",
-        "url": "https://www.linkedin.com/in/mehulkundu/"
+        "url": "https://www.linkedin.com/in/mehulkundu/",
+        "description": "Get in touch with me"
     },
     {
         "id": 4,
         "type": "YouTube",
         "title": "mehulkundu",
-        "url": "https://www.youtube.com/@mehulkundu"
+        "url": "https://www.youtube.com/@mehulkundu",
+        "description": "Get in touch with me"
     },
     {
         "id": 5,
         "type": "Instagram",
         "title": "mehulkundu",
-        "url": "https://www.instagram.com/thatproductdude/"
+        "url": "https://www.instagram.com/thatproductdude/",
+        "description": "Get in touch with me"
     },
     {
         "id": 6,
         "type": "GitHub",
         "title": "mehulkundu",
-        "url": "https://github.com/mehulkundu"
+        "url": "https://github.com/mehulkundu",
+        "description": "Get in touch with me"
     },
     {
         "id": 7,
         "type": "Figma",
         "title": "mehulkundu.com",
-        "url": "https://www.figma.com/@mehulkundu"
+        "url": "https://www.figma.com/@mehulkundu",
+        "description": "Get in touch with me"
     },
     {
         "id": 8,
         "type": "Dribbble",
         "title": "mehulkundu.com",
-        "url": "https://dribbble.com/mehulkundu"
+        "url": "https://dribbble.com/mehulkundu",
+        "description": "Get in touch with me"
     },
     {
         "id": 9,
         "type": "Behance",
         "title": "mehulkundu.com",
-        "url": "https://www.behance.net/mehulkundu"
+        "url": "https://www.behance.net/mehulkundu",
+        "description": "Get in touch with me"
     }
 ]
