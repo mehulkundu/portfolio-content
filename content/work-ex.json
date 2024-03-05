@@ -1,57 +1,57 @@
 [
-  {
-    "id": 1,
-    "start_date": "2021",
-    "end_date": "2022",
-    "title": "Design Lead",
-    "company": "GDSC JISCE",
-    "url": "https://gdsc.community.dev/jis-college-of-engineering-kalyani/",
-    "location": "Kalyani, WB, India",
-    "description": "Student Chapter of GDSC JISCE",
-    "company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/gdsc-logo.png"
-  },
-  {
-    "id": 2,
-    "start_date": "2021",
-    "end_date": "2023",
-    "title": "Founder",
-    "company": "Bohon",
-    "url": "https://www.instagram.com/bohon.co/",
-    "location": "Remote",
-    "description": "Design and development of Bohon, figuring out market, dealing with users, and solving problems",
-    "company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/bohon-logo.png"
-  },
-  {
-    "id": 3,
-    "start_date": "2021",
-    "end_date": "2023",
-    "title": "Product Designer and Frontend Developer",
-    "company": "Fueler.io",
-    "url": "https://ui.shadcn.com",
-    "location": "Remote",
-    "description": "Shipped some projects with the team incredible Fueler",
-    "company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/fueler-logo.png"
-  },
-  {
-    "id": 4,
-    "start_date": "2022",
-    "end_date": "2023",
-    "title": "Founding Product Designer",
-    "company": "Foyer",
-    "url": "https://ui.shadcn.com",
-    "location": "Remote",
-    "description": "Started as an contractual designer",
-    "company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.png"
-  },
-  {
-    "id": 5,
-    "start_date": "2023",
-    "end_date": "Now",
-    "title": "Lead Product Designer",
-    "company": "Foyer",
-    "url": "https://ui.shadcn.com",
-    "location": "Bengalore, KA, India",
-    "description": "The only designer who built Foyer from scratch",
-    "company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.png"
-  }
+	{
+		"id": 1,
+		"start_date": "2021",
+		"end_date": "2022",
+		"title": "Design Lead",
+		"company": "GDSC JISCE",
+		"url": "https://gdsc.community.dev/jis-college-of-engineering-kalyani/",
+		"location": "Kalyani, WB, India",
+		"description": "Student Chapter of GDSC JISCE",
+		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/gdsc-logo.webp"
+	},
+	{
+		"id": 2,
+		"start_date": "2021",
+		"end_date": "2023",
+		"title": "Founder",
+		"company": "Bohon",
+		"url": "https://www.instagram.com/bohon.co/",
+		"location": "Remote",
+		"description": "Design and development of Bohon, figuring out market, dealing with users, and solving problems",
+		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/bohon-logo.webp"
+	},
+	{
+		"id": 3,
+		"start_date": "2021",
+		"end_date": "2023",
+		"title": "Product Designer and Frontend Developer",
+		"company": "Fueler.io",
+		"url": "https://ui.shadcn.com",
+		"location": "Remote",
+		"description": "Shipped some projects with the team incredible Fueler",
+		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/fueler-logo.webp"
+	},
+	{
+		"id": 4,
+		"start_date": "2022",
+		"end_date": "2023",
+		"title": "Founding Product Designer",
+		"company": "Foyer",
+		"url": "https://ui.shadcn.com",
+		"location": "Remote",
+		"description": "Started as an contractual designer",
+		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.webp"
+	},
+	{
+		"id": 5,
+		"start_date": "2023",
+		"end_date": "Now",
+		"title": "Lead Product Designer",
+		"company": "Foyer",
+		"url": "https://ui.shadcn.com",
+		"location": "Bengalore, KA, India",
+		"description": "The only designer who built Foyer from scratch",
+		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.webp"
+	}
 ]
