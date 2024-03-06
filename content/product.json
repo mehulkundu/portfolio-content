@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Hire me fulltime",
+		"description": "My bread and butter is breathing product.",
+		"image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmMzMWNkOGI0MjQ5MTNiM2RhNDIzYjBmNGM5ZTVkNzYyZGRlYWNhZCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif",
+		"url": "http://links.mehulkundu.com/hire-fulltime",
+		"cta": "Send an offer"
+	},
+	{
+		"id": 2,
+		"name": "Hire me as Freelancer",
+		"description": "Some creative projects need a little extra help. I am open to tag along with you on weekender projects.",
+		"image": "https://media1.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif",
+		"url": "http://links.mehulkundu.com/hire-freelance",
+		"cta": "Book my next weekend"
+	},
+	{
+		"id": 3,
+		"name": "Order a Product Roast",
+		"description": "In this, I will be reviewing your product and sending you my recorded first impression and feedback on it.",
+		"image": "https://media4.giphy.com/media/9sJ7ZldhfGyn4KuOyP/giphy.gif",
+		"url": "http://links.mehulkundu.com/product-roast",
+		"cta": "Order now"
+	}
+]
