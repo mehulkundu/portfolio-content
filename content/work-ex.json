@@ -35,23 +35,12 @@
 	{
 		"id": 4,
 		"start_date": "2022",
-		"end_date": "2023",
-		"title": "Founding Product Designer",
-		"company": "Foyer",
-		"url": "https://getmerlin.in",
-		"location": "Remote",
-		"description": "Started as an contractual designer",
-		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.png"
-	},
-	{
-		"id": 5,
-		"start_date": "2023",
 		"end_date": "Now",
-		"title": "Lead Product Designer",
+		"title": "Lead Product Designer (Founding team)",
 		"company": "Foyer",
 		"url": "https://getmerlin.in",
 		"location": "Bangalore, India",
-		"description": "The only designer who built Foyer from scratch",
+		"description": "The one man army designer who built Foyer from scratch",
 		"company_logo": "https://cdn.jsdelivr.net/gh/mehulkundu/portfolio-content@main/assets/img/work-ex/foyer-logo.png"
 	}
 ]
