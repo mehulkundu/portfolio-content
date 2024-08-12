@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2023-09-01",
+    "title": "AI-Powered Content Generator",
+    "company": "ContentGenius",
+    "description": "Developed a sophisticated AI-powered content generation tool using GPT-4 and custom fine-tuning techniques.",
+    "relatedBlogs": [
+      { "name": "Fine-tuning GPT Models", "slug": "fine-tuning-gpt-models" },
+      { "name": "The Future of AI in Content Creation", "slug": "ai-content-creation-future" }
+    ]
+  },
+  {
+    "date": "2023-06-15",
+    "title": "Blockchain-based Supply Chain Solution",
+    "company": "ChainTrack",
+    "description": "Built a decentralized supply chain management system using Ethereum and IPFS for enhanced traceability and security.",
+    "relatedBlogs": [
+      { "name": "Blockchain in Supply Chain", "slug": "blockchain-supply-chain" },
+      { "name": "Smart Contracts for Business Logic", "slug": "smart-contracts-business-logic" }
+    ]
+  },
+  {
+    "date": "2023-03-10",
+    "title": "Real-time Collaboration Platform",
+    "company": "TeamSync",
+    "description": "Created a real-time collaboration platform with features like live editing, video conferencing, and task management.",
+    "relatedBlogs": [
+      { "name": "WebRTC for Real-time Communication", "slug": "webrtc-real-time-communication" },
+      { "name": "Scaling WebSocket Connections", "slug": "scaling-websocket-connections" }
+    ]
+  },
+  {
+    "date": "2022-12-01",
+    "title": "IoT Home Automation System",
+    "company": "SmartHome",
+    "description": "Designed and implemented an IoT-based home automation system with voice control and energy optimization features.",
+    "relatedBlogs": [
+      { "name": "IoT Protocols for Home Automation", "slug": "iot-protocols-home-automation" },
+      { "name": "Securing IoT Devices", "slug": "securing-iot-devices" }
+    ]
+  },
+  {
+    "date": "2022-09-20",
+    "title": "AR-Enhanced Mobile App",
+    "company": "ARTech",
+    "description": "Developed a mobile application with augmented reality features for interactive product visualization and virtual try-ons.",
+    "relatedBlogs": [
+      { "name": "AR Development with ARKit and ARCore", "slug": "ar-development-arkit-arcore" },
+      { "name": "Optimizing AR Performance on Mobile", "slug": "optimizing-ar-performance-mobile" }
+    ]
+  }
+]
