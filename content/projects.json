@@ -1,1 +1,46 @@
-
+[
+  {
+    date: '2023-03-15',
+    title: 'Portfolio Redesign',
+    company: 'Shadcn',
+    description:
+      'A complete overhaul of the Shadcn portfolio using modern web technologies.',
+    relatedBlogs: [
+      { name: 'Designing with Shadcn UI', slug: 'designing-with-shadcn-ui' },
+      {
+        name: 'The Power of React Server Components',
+        slug: 'power-of-react-server-components',
+      },
+    ],
+  },
+  {
+    date: '2023-01-10',
+    title: 'E-commerce Platform',
+    company: 'TechMart',
+    description:
+      'Built a scalable e-commerce platform with Next.js and Stripe integration.',
+    relatedBlogs: [
+      {
+        name: 'Optimizing Next.js for E-commerce',
+        slug: 'optimizing-nextjs-for-ecommerce',
+      },
+    ],
+  },
+  {
+    date: '2022-11-05',
+    title: 'AI-Powered Chat Application',
+    company: 'ChatInnovate',
+    description:
+      'Developed an AI-powered chat application using OpenAIs GPT-3.',
+    relatedBlogs: [
+      {
+        name: 'Integrating GPT-3 in Web Apps',
+        slug: 'integrating-gpt3-in-web-apps',
+      },
+      {
+        name: 'The Future of Conversational AI',
+        slug: 'future-of-conversational-ai',
+      },
+    ],
+  },
+]
