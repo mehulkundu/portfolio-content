@@ -19,6 +19,7 @@
 		"title": "Blockchain-based Supply Chain Solution",
 		"company": "ChainTrack",
 		"description": "Built a decentralized supply chain management system using Ethereum and IPFS for enhanced traceability and security.",
+		"projectUrl": "https://getmerlin.in",
 		"relatedBlogs": [
 			{
 				"name": "Blockchain in Supply Chain",
@@ -36,6 +37,7 @@
 		"title": "Real-time Collaboration Platform",
 		"company": "TeamSync",
 		"description": "Created a real-time collaboration platform with features like live editing, video conferencing, and task management.",
+		"projectUrl": "https://getmerlin.in",
 		"relatedBlogs": [
 			{
 				"name": "WebRTC for Real-time Communication",

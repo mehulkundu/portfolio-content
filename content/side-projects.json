@@ -5,6 +5,7 @@
 		"title": "AI-Powered Content Generator",
 		"company": "ContentGenius",
 		"description": "Developed a sophisticated AI-powered content generation tool using GPT-4 and custom fine-tuning techniques.",
+		"projectUrl": "https://getmerlin.in",
 		"relatedBlogs": [
 			{ "name": "Fine-tuning GPT Models", "slug": "fine-tuning-gpt-models" },
 			{
@@ -67,6 +68,7 @@
 		"title": "AR-Enhanced Mobile App",
 		"company": "ARTech",
 		"description": "Developed a mobile application with augmented reality features for interactive product visualization and virtual try-ons.",
+		"projectUrl": "https://getmerlin.in",
 		"relatedBlogs": [
 			{
 				"name": "AR Development with ARKit and ARCore",
