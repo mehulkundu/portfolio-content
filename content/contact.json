@@ -1,72 +1,72 @@
 [
-    {
-        "id": 1,
-        "type": "Email",
-        "title": "contact.mehul@gmail.com",
-        "url": "mailto:contact.mehul@gmail.com",
-        "description": "Mention a CLEAR subject"
-    },
-    {
-        "id": 2,
-        "type": "Twitter",
-        "title": "@KunduMehul",
-        "url": "https://twitter.com/KunduMehul",
-        "description": "Shit post to brainstorming"
-    },
-    {
-        "id": 3,
-        "type": "LinkedIn",
-        "title": "@mehulkundu",
-        "url": "https://www.linkedin.com/in/mehulkundu/",
-        "description": "Not here much"
-    },
-    {
-        "id": 4,
-        "type": "YouTube",
-        "title": "@mehulkundu",
-        "url": "https://www.youtube.com/@mehulkundu",
-        "description": "A dump of lot of productive videos"
-    },
-    {
-        "id": 5,
-        "type": "Instagram",
-        "title": "@thatproductdude",
-        "url": "https://www.instagram.com/thatproductdude/",
-        "description": "The professional insta"
-    },
-    {
-        "id": 5,
-        "type": "Instagram",
-        "title": "@kundumehul",
-        "url": "https://www.instagram.com/kundumehul",
-        "description": "Life happens here"
-    },
-    {
-        "id": 6,
-        "type": "GitHub",
-        "title": "@mehulkundu",
-        "url": "https://github.com/mehulkundu",
-        "description": "Get in touch with me"
-    },
-    {
-        "id": 7,
-        "type": "Figma",
-        "title": "@mehulkundu",
-        "url": "https://www.figma.com/@mehulkundu",
-        "description": "Get in touch with me"
-    },
-    {
-        "id": 8,
-        "type": "Dribbble",
-        "title": "@mehulkundu",
-        "url": "https://dribbble.com/mehulkundu",
-        "description": "Get in touch with me"
-    },
-    {
-        "id": 9,
-        "type": "Behance",
-        "title": "@mehulkundu",
-        "url": "https://www.behance.net/mehulkundu",
-        "description": "Get in touch with me"
-    }
+	{
+		"id": 1,
+		"type": "Email",
+		"title": "contact.mehul@gmail.com",
+		"url": "mailto:contact.mehul@gmail.com",
+		"description": "For professional inquiries and collaborations"
+	},
+	{
+		"id": 2,
+		"type": "Twitter",
+		"title": "@KunduMehul",
+		"url": "https://twitter.com/KunduMehul",
+		"description": "Quick thoughts, industry insights, and casual interactions"
+	},
+	{
+		"id": 3,
+		"type": "LinkedIn",
+		"title": "@mehulkundu",
+		"url": "https://www.linkedin.com/in/mehulkundu/",
+		"description": "Professional network and career updates"
+	},
+	{
+		"id": 4,
+		"type": "YouTube",
+		"title": "@mehulkundu",
+		"url": "https://www.youtube.com/@mehulkundu",
+		"description": "Tutorials, tech reviews, and productivity hacks"
+	},
+	{
+		"id": 5,
+		"type": "Instagram",
+		"title": "@thatproductdude",
+		"url": "https://www.instagram.com/thatproductdude/",
+		"description": "Behind-the-scenes of product development and design"
+	},
+	{
+		"id": 5,
+		"type": "Instagram",
+		"title": "@kundumehul",
+		"url": "https://www.instagram.com/kundumehul",
+		"description": "Personal moments, travels, and lifestyle snapshots"
+	},
+	{
+		"id": 6,
+		"type": "GitHub",
+		"title": "@mehulkundu",
+		"url": "https://github.com/mehulkundu",
+		"description": "Open-source contributions and coding projects"
+	},
+	{
+		"id": 7,
+		"type": "Figma",
+		"title": "@mehulkundu",
+		"url": "https://www.figma.com/@mehulkundu",
+		"description": "UI/UX design work and collaborative prototypes"
+	},
+	{
+		"id": 8,
+		"type": "Dribbble",
+		"title": "@mehulkundu",
+		"url": "https://dribbble.com/mehulkundu",
+		"description": "Design portfolio showcasing creative concepts"
+	},
+	{
+		"id": 9,
+		"type": "Behance",
+		"title": "@mehulkundu",
+		"url": "https://www.behance.net/mehulkundu",
+		"description": "Comprehensive design projects and case studies"
+	}
 ]
