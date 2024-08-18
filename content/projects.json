@@ -2,50 +2,312 @@
 	{
 		"id": "1",
 		"date": "2022-10",
-		"title": "Designing brand identity",
+		"title": "Crafting Foyer's Brand Identity",
 		"company": "Foyer (Parent company of Merlin)",
-		"description": "As founding designer at Foyer, this was my first task. Foyer was a dev tech tool so I wanted to make the logo as simple as >‿<",
+		"description": "As the founding designer at Foyer, I kicked things off by creating our brand identity. Foyer was a dev tech tool, so I wanted the logo to be as simple and friendly as >‿<. It was exciting to set the visual tone for our company!",
 		"relatedBlogs": []
 	},
 	{
 		"id": "2",
 		"date": "2022-10",
-		"title": "Designing landing page",
+		"title": "Bringing Foyer's Landing Page to Life",
 		"company": "Foyer (Parent company of Merlin)",
-		"description": "This was the design task which got me selected in Foyer in the first place. So I made the full version of it with the new branding and guidelines.",
+		"description": "Remember that design task that got me hired at Foyer? Well, I finally got to bring it to life! I created the full version of the landing page, incorporating our new branding and guidelines. It felt great to see my initial concept evolve into reality.",
 		"relatedBlogs": []
 	},
 	{
 		"id": "3",
 		"date": "2022-11",
-		"title": "Designing Slack bot",
+		"title": "Crafting a Slack Bot for Engineering Updates",
 		"company": "Foyer (Parent company of Merlin)",
-		"description": "Foyer was making tools for eng. managers. One part of it was sending updates of tickets via Slack. So rather than designing it on Figma, I made it on Slack blocks code editor.",
+		"description": "Foyer was all about empowering engineering managers. We needed a Slack bot to send ticket updates, so I took an unconventional approach. Instead of designing in Figma, I dove right into Slack's block code editor. It was a fun challenge to design directly in the platform!",
 		"relatedBlogs": []
 	},
 	{
 		"id": "4",
 		"date": "2022-12",
-		"title": "Pivoting a new product",
+		"title": "Riding the AI Wave: Pivoting to Merlin",
 		"company": "Merlin",
-		"description": "As ChatGPT announced its first release, we rode the wave of AI and started pivoting our product. Merlin started by designing a simple chrome extension that generate AI result on SERP.",
+		"description": "ChatGPT's release shook things up, and we weren't about to miss out! We pivoted our product and Merlin was born. Our first step? A simple Chrome extension that generated AI results right on the search engine results page. It was exhilarating to be part of this AI revolution!",
 		"projectUrl": "https://getmerlin.in",
 		"relatedBlogs": []
 	},
 	{
 		"id": "5",
-		"date": "2023-01",
-		"title": "Introducing cmd+m",
+		"date": "2022-12",
+		"title": "Revolutionizing Web Interactions with cmd+m",
 		"company": "Merlin",
-		"description": "We got incredible response from our users. So we decided to make a chrome extension that can be used as a commandbar on any webpage. We were the first one ever in the market to ideate this.",
+		"description": "The response to our extension was incredible! We decided to take it further by creating a command bar that could be used on any webpage. We were the first in the market with this idea, and it felt amazing to be innovators in this space.",
 		"relatedBlogs": []
 	},
 	{
 		"id": "6",
-		"date": "2023-02",
-		"title": "More projects",
+		"date": "2022-12",
+		"title": "Enhancing Context: The Selection Feature",
 		"company": "Merlin",
-		"description": "Coming soon...",
+		"description": "We added a game-changing feature: the ability to select context from any page. It was a challenging but rewarding experience, diving deep into the world of Chrome extensions.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "7",
+		"date": "2023-01",
+		"title": "Merlin's Digital Home: Crafting Our Landing Page",
+		"company": "Merlin",
+		"description": "It was time to give Merlin its own digital space. Creating the landing page was a blast, and it really helped solidify our brand identity in the AI space.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "8",
+		"date": "2023-01",
+		"title": "Empowering Users: The Save Prompts Feature",
+		"company": "Merlin",
+		"description": "We wanted to make Merlin more personalized, so we added the ability to save prompts. It was exciting to see users start creating their own AI workflows!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "9",
+		"date": "2023-02",
+		"title": "Condensing Knowledge: YouTube Summarizer",
+		"company": "Merlin",
+		"description": "Information overload is real, especially on YouTube. Our summarizer feature was a game-changer, helping users extract key points from videos effortlessly.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "10",
+		"date": "2023-02",
+		"title": "Digesting Long-form Content: Blog Summarizer",
+		"company": "Merlin",
+		"description": "Building on our summarization capabilities, we extended the feature to blog posts. It was satisfying to help users quickly grasp the essence of lengthy articles.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "11",
+		"date": "2023-03",
+		"title": "Merlin 2.0: Sidebar Revamp and Web Access",
+		"company": "Merlin",
+		"description": "This was a big one! We completely revamped Merlin as a sidebar and introduced web access. It felt like we were truly integrating AI into the browsing experience.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "12",
+		"date": "2023-04",
+		"title": "AI-Powered Email: Merlin Meets Gmail",
+		"company": "Merlin",
+		"description": "Bringing Merlin to Gmail was a game-changer. Watching users draft emails with AI assistance was incredibly rewarding.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "13",
+		"date": "2023-04",
+		"title": "Networking Reinvented: Merlin on LinkedIn",
+		"company": "Merlin",
+		"description": "Integrating Merlin with LinkedIn opened up a world of possibilities for professional networking. It was exciting to see how AI could enhance career connections.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "14",
+		"date": "2023-04",
+		"title": "Tweet Smarter: Merlin on Twitter",
+		"company": "Merlin",
+		"description": "Bringing Merlin to Twitter was a fun challenge. Helping users craft the perfect tweet in 280 characters was surprisingly satisfying!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "15",
+		"date": "2023-05",
+		"title": "Knowledge at Your Fingertips: Chat with Documents",
+		"company": "Merlin",
+		"description": "This feature felt like magic - being able to chat with documents brought a new level of interactivity to reading. It was amazing to see users engage with content in such a novel way.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "16",
+		"date": "2023-06",
+		"title": "Merlin in Your Pocket: Launching Our Mobile App",
+		"company": "Merlin",
+		"description": "Taking Merlin mobile was a huge step. It was challenging but incredibly rewarding to bring our AI assistant to smartphones.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "17",
+		"date": "2023-06",
+		"title": "Web Whisperer: Enhanced Webpage Interaction",
+		"company": "Merlin",
+		"description": "We supercharged our webpage chat feature, extending our summary capabilities. It felt like we were giving users a knowledgeable companion for their web browsing.",
+		"projectUrl": "https://www.youtube.com/watch?v=1vC3yZNPCYU",
+		"relatedBlogs": []
+	},
+	{
+		"id": "18",
+		"date": "2023-07",
+		"title": "Networking Amplified: LinkedIn Pro Connect",
+		"company": "Merlin",
+		"description": "Our LinkedIn integration evolved into a powerful networking tool. Seeing users make meaningful connections with AI assistance was truly gratifying.",
+		"projectUrl": "https://www.youtube.com/watch?v=VqSGoMb4uKI",
+		"relatedBlogs": []
+	},
+	{
+		"id": "19",
+		"date": "2023-07",
+		"title": "Your AI, Your Way: Custom API Key Integration",
+		"company": "Merlin",
+		"description": "Empowering users to add their own API keys was a big step towards customization. It was exciting to see Merlin become even more flexible and powerful.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "20",
+		"date": "2023-08",
+		"title": "Merlin Evolved: Major Extension Overhaul",
+		"company": "Merlin",
+		"description": "As our feature list grew, we needed a major revamp. Redesigning the extension to accommodate everything was a huge challenge, but the end result was so satisfying!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "21",
+		"date": "2023-08",
+		"title": "Productivity Boost: Merlin Integrates with Outlook",
+		"company": "Merlin",
+		"description": "Bringing Merlin to Outlook was another milestone in our mission to enhance productivity across platforms. It was great to see Merlin assist in yet another email environment.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "22",
+		"date": "2023-08",
+		"title": "Social Media Maestro: Unified Merlin Across Platforms",
+		"company": "Merlin",
+		"description": "We expanded Merlin's reach to Facebook and enhanced our LinkedIn integration. Unifying our approach across social media platforms was a complex but rewarding process.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "23",
+		"date": "2023-09",
+		"title": "Visualizing Ideas: Integrated Image Generation",
+		"company": "Merlin",
+		"description": "Adding image generation to our extension felt like unlocking a new superpower. Watching users bring their ideas to life visually was incredibly exciting!",
+		"projectUrl": "https://www.youtube.com/watch?v=XPi_4US4B8w",
+		"relatedBlogs": []
+	},
+	{
+		"id": "24",
+		"date": "2023-09",
+		"title": "YouTube Reinvented: Advanced Summarizer and Content Repurposing",
+		"company": "Merlin",
+		"description": "We took our YouTube summarizer to the next level, adding content repurposing features. It was amazing to see how this could help content creators and viewers alike.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "25",
+		"date": "2023-09",
+		"title": "CodeX: Your AI Coding Companion",
+		"company": "Merlin",
+		"description": "Launching CodeX, our PR summarizer and code explainer, was a proud moment. It felt great to support developers and make code reviews more efficient.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "26",
+		"date": "2023-09",
+		"title": "Apes and AI: Merlin's Social Media Experiment",
+		"company": "Merlin",
+		"description": "Creating a social media platform for Apes and AI was an exciting detour. It was fascinating to explore the intersection of AI and social interaction in a new way.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "27",
+		"date": "2023-11",
+		"title": "Quick Insights: Link Preview on Hover",
+		"company": "Merlin",
+		"description": "Adding link previews on hover was a small feature with big impact. I even got to make the demo video, which was a fun change of pace!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "28",
+		"date": "2023-11",
+		"title": "Doppelganger: Clone Your Twitter Persona",
+		"company": "Merlin",
+		"description": "Creating Doppelganger, our Twitter persona cloner, was an intriguing dive into AI-powered social media interactions. It raised interesting questions about online identity and AI capabilities.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "29",
+		"date": "2023-11",
+		"title": "Pixplain: Your Personal Image Interpreter",
+		"company": "Merlin",
+		"description": "Launching Pixplain as a standalone extension was a proud moment. Being able to explain any image or screenshot felt like giving users a new way to see the world.",
+		"projectUrl": "https://www.getmerlin.in/pixplain",
+		"relatedBlogs": []
+	},
+	{
+		"id": "30",
+		"date": "2023-11",
+		"title": "YouTube Insights: Transcript Feature",
+		"company": "Merlin",
+		"description": "Adding transcript functionality to our YouTube features opened up new possibilities for content analysis and accessibility. It was satisfying to make video content more searchable and usable.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "31",
+		"date": "2023-12",
+		"title": "Merlin for Developers: Launching Our API",
+		"company": "Merlin",
+		"description": "Creating the Merlin API was a huge step towards empowering developers. I even got to make the explainer video, which was a fun challenge in itself!",
+		"projectUrl": "https://www.youtube.com/watch?v=FJE5_L_SoB4",
+		"relatedBlogs": []
+	},
+	{
+		"id": "32",
+		"date": "2024-01",
+		"title": "Bonkers: Our #1 Product Hunt Success",
+		"company": "Merlin",
+		"description": "Launching Bonkers, our image generator, and seeing it become the #1 product of the day on Product Hunt was a massive achievement! Creating the demo video was the cherry on top of this exciting project.",
+		"projectUrl": "https://www.youtube.com/watch?v=XHGLmm6w_40",
+		"relatedBlogs": []
+	},
+	{
+		"id": "33",
+		"date": "2024-02",
+		"title": "Super Gmail: Revolutionizing Email Interaction",
+		"company": "Merlin",
+		"description": "Revamping our Gmail integration into Super Gmail was a game-changer. Seeing the huge jump in activation and retention after introducing new CTAs was incredibly rewarding!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "34",
+		"date": "2024-02",
+		"title": "Super SERP: Enhancing Search Results",
+		"company": "Merlin",
+		"description": "Transforming our SERP integration into Super SERP was like putting together a complex puzzle. We revisited all our gradually integrated features and repackaged them for a smoother user experience.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "35",
+		"date": "2024-03",
+		"title": "Interactive Learning: PDF Viewer with Chat Integration",
+		"company": "Merlin",
+		"description": "Integrating our chat feature directly into the PDF viewer was a breakthrough moment. It felt like we were changing the way people interact with documents!",
+		"relatedBlogs": []
+	},
+	{
+		"id": "36",
+		"date": "2024-04",
+		"title": "Merlin Web App: Our Biggest Project Yet",
+		"company": "Merlin",
+		"description": "Developing the Merlin web app was our most ambitious project to date. It was like building a whole new world from scratch! I had to reimagine every feature we'd created, approaching it from a 'zero knowledge' perspective. It was challenging, exhilarating, and incredibly rewarding to see our entire toolkit come together in a cohesive web platform.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "37",
+		"date": "2024-07",
+		"title": "SERP Reimagined: Aligning with Our New Brand Philosophy",
+		"company": "Merlin",
+		"description": "As our brand evolved, so did our approach to search results. Redesigning our SERP integration to align with our new brand philosophy was like giving Merlin a fresh coat of paint. It was exciting to see our AI assistant mature and find its unique voice in the crowded search landscape.",
+		"relatedBlogs": []
+	},
+	{
+		"id": "38",
+		"date": "2024-06",
+		"title": "Cooking up designs everyday - coming soon...",
+		"company": "Merlin",
+		"description": "Looking back on our journey, it's amazing to see how far we've come. From a simple Chrome extension to a comprehensive AI assistant, Merlin has grown beyond our wildest dreams. But we're not done yet! There are so many exciting projects on the horizon. I can't wait to see what we'll create next and how we'll continue to push the boundaries of what's possible with AI. The future of Merlin is bright, and I'm thrilled to be part of this incredible journey!",
 		"relatedBlogs": []
 	}
 ]
