@@ -4,69 +4,69 @@
 		"type": "Email",
 		"title": "contact.mehul@gmail.com",
 		"url": "mailto:contact.mehul@gmail.com",
-		"description": "For professional inquiries and collaborations"
+		"description": "Drop me a line and let's create something amazing together!"
 	},
 	{
 		"id": 2,
 		"type": "Twitter",
 		"title": "@KunduMehul",
 		"url": "https://twitter.com/KunduMehul",
-		"description": "Quick thoughts, industry insights, and casual interactions"
+		"description": "Join my digital campfire for hot takes and cool insights!"
 	},
 	{
 		"id": 3,
 		"type": "LinkedIn",
 		"title": "@mehulkundu",
 		"url": "https://www.linkedin.com/in/mehulkundu/",
-		"description": "Professional network and career updates"
+		"description": "Where my professional journey unfolds, one connection at a time!"
 	},
 	{
 		"id": 4,
 		"type": "YouTube",
 		"title": "@mehulkundu",
 		"url": "https://www.youtube.com/@mehulkundu",
-		"description": "Tutorials, tech reviews, and productivity hacks"
+		"description": "Tune in for a front-row seat to my tech adventures!"
 	},
 	{
 		"id": 5,
 		"type": "Instagram",
 		"title": "@thatproductdude",
 		"url": "https://www.instagram.com/thatproductdude/",
-		"description": "Behind-the-scenes of product development and design"
-	},
-	{
-		"id": 5,
-		"type": "Instagram",
-		"title": "@kundumehul",
-		"url": "https://www.instagram.com/kundumehul",
-		"description": "Personal moments, travels, and lifestyle snapshots"
+		"description": "Peek behind the curtain of my product wizardry!"
 	},
 	{
 		"id": 6,
-		"type": "GitHub",
-		"title": "@mehulkundu",
-		"url": "https://github.com/mehulkundu",
-		"description": "Open-source contributions and coding projects"
+		"type": "Instagram",
+		"title": "@kundumehul",
+		"url": "https://www.instagram.com/kundumehul",
+		"description": "Life through my lens - come for the pics, stay for the stories!"
 	},
 	{
 		"id": 7,
-		"type": "Figma",
+		"type": "GitHub",
 		"title": "@mehulkundu",
-		"url": "https://www.figma.com/@mehulkundu",
-		"description": "UI/UX design work and collaborative prototypes"
+		"url": "https://github.com/mehulkundu",
+		"description": "Where my code dreams become digital reality!"
 	},
 	{
 		"id": 8,
-		"type": "Dribbble",
+		"type": "Figma",
 		"title": "@mehulkundu",
-		"url": "https://dribbble.com/mehulkundu",
-		"description": "Design portfolio showcasing creative concepts"
+		"url": "https://www.figma.com/@mehulkundu",
+		"description": "I love giving back to the community!"
 	},
 	{
 		"id": 9,
+		"type": "Dribbble",
+		"title": "@mehulkundu",
+		"url": "https://dribbble.com/mehulkundu",
+		"description": "My creative playground where ideas bounce into life!"
+	},
+	{
+		"id": 10,
 		"type": "Behance",
 		"title": "@mehulkundu",
 		"url": "https://www.behance.net/mehulkundu",
-		"description": "Comprehensive design projects and case studies"
+		"description": "Dive deep into my design odysseys and eureka moments!"
 	}
 ]
