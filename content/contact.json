@@ -42,13 +42,6 @@
 		"description": "Life through my lens - come for the pics, stay for the stories!"
 	},
 	{
-		"id": 7,
-		"type": "GitHub",
-		"title": "@mehulkundu",
-		"url": "https://github.com/mehulkundu",
-		"description": "Where my code dreams become digital reality!"
-	},
-	{
 		"id": 8,
 		"type": "Figma",
 		"title": "@mehulkundu",
@@ -57,9 +50,9 @@
 	},
 	{
 		"id": 9,
-		"type": "Dribbble",
+		"type": "Layers",
 		"title": "@mehulkundu",
-		"url": "https://dribbble.com/mehulkundu",
+		"url": "https://layers.to/mehulkundu",
 		"description": "My creative playground where ideas bounce into life!"
 	},
 	{
