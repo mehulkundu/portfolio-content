@@ -305,9 +305,18 @@
 	{
 		"id": "38",
 		"date": "2024-06",
-		"title": "Cooking up designs everyday - coming soon...",
+		"title": "Merlin Teams: B2B-Focused Landing Page Redesign",
 		"company": "Merlin",
-		"description": "Looking back on our journey, it's amazing to see how far we've come. From a simple Chrome extension to a comprehensive AI assistant, Merlin has grown beyond our wildest dreams. But we're not done yet! There are so many exciting projects on the horizon. I can't wait to see what we'll create next and how we'll continue to push the boundaries of what's possible with AI. The future of Merlin is bright, and I'm thrilled to be part of this incredible journey!",
+		"description": "Following Merlin's comprehensive overhaul, we shifted our strategy towards B2B sales. While we had an existing teams landing page, it lacked optimization for B2B-specific features. This necessitated a redesign of our landing page, which ultimately led to increased conversions for booking meetings with potential business clients. The revamped page effectively showcases our B2B offerings and streamlines the process for enterprise customers to engage with our team.",
+		"projectUrl": "https://www.getmerlin.in/teams",
+		"relatedBlogs": []
+	},
+	{
+		"id": "39",
+		"date": "2024-07",
+		"title": "Introducing Keyboard Shortcuts",
+		"company": "Merlin",
+		"description": "This was quite an interesting task for me. I conducted extensive research on how keyboard-first applications are built, the benefits of using them, and how they are utilized. I uncovered numerous industry insights on this topic.",
 		"relatedBlogs": []
 	}
 ]
